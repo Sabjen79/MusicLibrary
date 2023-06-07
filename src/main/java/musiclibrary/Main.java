@@ -2,7 +2,10 @@ package musiclibrary;
 
 import musiclibrary.database.DatabaseConnection;
 import musiclibrary.spotify.SpotifyAuth;
+import musiclibrary.ui.ConnectionUI;
+import musiclibrary.ui.MainUI;
 
+import javax.swing.*;
 import javax.xml.crypto.Data;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,13 +14,13 @@ import java.sql.CallableStatement;
 
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
-        DatabaseConnection.getINSTANCE();
-        SpotifyAuth.sendLogin();
-
-        while(!SpotifyAuth.connected) {
-            Thread.sleep(1000);
+        try {
+            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException ex) {
+            ex.printStackTrace();
         }
 
-        SpotifyAuth.loadSongs();
+        ConnectionUI.show();
+        //MainUI.show();
     }
 }

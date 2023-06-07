@@ -2,10 +2,16 @@ package musiclibrary.spotify;
 
 import com.google.common.hash.Hashing;
 import com.google.common.io.BaseEncoding;
+import com.google.gson.Gson;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
 import musiclibrary.database.DatabaseConnection;
+import musiclibrary.ui.ConnectionUI;
+import musiclibrary.ui.LoadSongsUI;
+import musiclibrary.ui.MainUI;
 import org.apache.hc.core5.http.ParseException;
 import se.michaelthelin.spotify.SpotifyApi;
 import se.michaelthelin.spotify.SpotifyHttpManager;
@@ -16,13 +22,20 @@ import se.michaelthelin.spotify.requests.authorization.authorization_code.Author
 import se.michaelthelin.spotify.requests.authorization.authorization_code.pkce.AuthorizationCodePKCERefreshRequest;
 import se.michaelthelin.spotify.requests.authorization.authorization_code.pkce.AuthorizationCodePKCERequest;
 
+import javax.imageio.ImageIO;
+import javax.xml.crypto.Data;
 import java.awt.*;
+import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.InetSocketAddress;
 import java.net.URI;
+import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.Random;
 
@@ -42,7 +55,7 @@ public class SpotifyAuth {
             .build();
 
     public static SpotifyApi getApi() {
-        //if(availableUntil == null) refresh();
+        if(availableUntil == null) refresh();
 
         if(new Date().after(availableUntil)) {
             refresh();
@@ -51,29 +64,58 @@ public class SpotifyAuth {
         return spotifyApi;
     }
 
-    public static void loadSongs() {
+    public static int getSongsLength() {
         try {
-            int total = getApi().getUsersSavedTracks().build().execute().getTotal();
-
-            for(int offset = 0; offset <= total; offset += 50) {
-                System.out.println(offset + "/" + total);
-                for (SavedTrack item : getApi().getUsersSavedTracks().offset(offset).limit(50).build().execute().getItems()) {
-                    DatabaseConnection.getINSTANCE().addSong(
-                            item.getTrack().getId(),
-                            item.getTrack().getName(),
-                            item.getTrack().getArtists(),
-                            item.getTrack().getAlbum()
-                    );
-                }
-            }
-
-
-
-
-
-        } catch (IOException | ParseException | SpotifyWebApiException e) {
+            return getApi().getUsersSavedTracks().build().execute().getTotal();
+        } catch (IOException | SpotifyWebApiException | ParseException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public static void loadSongs() {
+        (new Thread(() -> {
+            try {
+                int total = getApi().getUsersSavedTracks().build().execute().getTotal();
+                ArrayList<String> artists = new ArrayList<>();
+
+                for(int offset = 0; offset <= total; offset += 50) {
+                    LoadSongsUI.setValue(offset, total + artists.size());
+
+                    for (SavedTrack item : getApi().getUsersSavedTracks().offset(offset).limit(50).build().execute().getItems()) {
+                        DatabaseConnection.getINSTANCE().addSong(
+                                item.getTrack().getId(),
+                                item.getTrack().getName(),
+                                item.getTrack().getArtists(),
+                                item.getTrack().getAlbum()
+                        );
+
+                        if(!artists.contains(item.getTrack().getArtists()[0].getId())) {
+                            artists.add(item.getTrack().getArtists()[0].getId());
+                        }
+                    }
+                }
+
+                String[] strings = new String[50];
+                for(int i = 0; i < artists.size(); i++) {
+                    strings[i%50] = artists.get(i);
+
+                    LoadSongsUI.setValue(total + i, total + artists.size());
+
+                    if(i%50 == 49 || i == artists.size() - 1) {
+                        var arts = getApi().getSeveralArtists(strings).build().execute();
+
+                        for(var a : arts) {
+                            DatabaseConnection.getINSTANCE().addGenres(a.getId(), a.getGenres());
+                        }
+                    }
+                }
+
+                LoadSongsUI.close();
+                MainUI.show();
+            } catch (IOException | ParseException | SpotifyWebApiException e) {
+                throw new RuntimeException(e);
+            }
+        })).start();
     }
 
     public static void sendLogin() throws IOException {
@@ -107,6 +149,30 @@ public class SpotifyAuth {
         TemporaryServer.startServer();
     }
 
+    public static BufferedImage getCover(String id) {
+        BufferedImage returnValue = null;
+        try {
+            var images = getApi().getAlbum(getApi().getTrack(id).build().execute().getAlbum().getId()).build().execute().getImages();
+            if(images == null || images.length == 0) return null;
+
+            int max = -1;
+            var image = images[0];
+            for(var img : images) {
+                if(max < img.getWidth()) {
+                    max = img.getWidth();
+                    image = img;
+                }
+            }
+
+            returnValue = ImageIO.read(new URL(image.getUrl()));
+
+        } catch (IOException | SpotifyWebApiException | ParseException e) {
+            throw new RuntimeException(e);
+        }
+
+        return returnValue;
+    }
+
     public static void auth(String code) {
         AuthorizationCodePKCERequest authorizationCodePKCERequest = spotifyApi.authorizationCodePKCE(code, codeVerifier)
                 .build();
@@ -119,6 +185,9 @@ public class SpotifyAuth {
 
             connected = true;
             availableUntil = new Date(System.currentTimeMillis() + credentials.getExpiresIn() * 1000L);
+
+            ConnectionUI.close();
+            LoadSongsUI.show();
         } catch (SpotifyWebApiException | ParseException | IOException e) {
             throw new RuntimeException(e);
         }

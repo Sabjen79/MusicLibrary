@@ -3,6 +3,7 @@ package musiclibrary.spotify;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
+import musiclibrary.ui.ConnectionUI;
 
 import java.io.IOException;
 import java.io.OutputStream;
@@ -17,8 +18,7 @@ public class TemporaryServer {
         server = HttpServer.create(new InetSocketAddress("localhost", 7999), 0);
         server.createContext("/spotify", exchange -> {
             if("GET".equals(exchange.getRequestMethod())) {
-
-                SpotifyAuth.auth(exchange.getRequestURI().toString().split("code=")[1]);
+                if(!exchange.getRequestURI().toString().contains("code=")) return;
 
                 OutputStream outputStream = exchange.getResponseBody();
                 StringBuilder htmlBuilder = new StringBuilder();
@@ -37,11 +37,17 @@ public class TemporaryServer {
                 outputStream.flush();
                 outputStream.close();
 
-                server.stop(0);
+                if(!SpotifyAuth.connected) SpotifyAuth.auth(exchange.getRequestURI().toString().split("code=")[1]);
             }
         });
         server.setExecutor(null);
         server.start();
+        System.out.println("Server started");
+    }
+
+    public static void stop() {
+        server.stop(0);
+        System.out.println("Server stopped");
     }
 
     public static void setRequest(String s) {

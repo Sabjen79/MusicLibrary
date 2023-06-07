@@ -1,0 +1,7022 @@
+[
+  {
+    "song": "HAZE",
+    "artists": "MARAUDA",
+    "album": "SHIT VOL. 1",
+    "genres": "brostep, deathstep, dubstep, tearout"
+  },
+  {
+    "song": "Future Stomp",
+    "artists": "MARAUDA",
+    "album": "Future Stomp",
+    "genres": "brostep, deathstep, dubstep, tearout"
+  },
+  {
+    "song": "Blunder 2.0",
+    "artists": "MARAUDA",
+    "album": "Blunder 2.0",
+    "genres": "brostep, deathstep, dubstep, tearout"
+  },
+  {
+    "song": "Crazy Accordeon Conny Bitch",
+    "artists": "Wan Bushi",
+    "album": "Crazy Accordeon Conny Bitch",
+    "genres": "breakcore"
+  },
+  {
+    "song": "Unpleasant Sonata",
+    "artists": "Igorrr",
+    "album": "Nostril",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Reunion",
+    "artists": "Astrix",
+    "album": "Reunion",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Drunk on Dreams",
+    "artists": "Ace Ventura, Astrix",
+    "album": "Drunk on Dreams",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Beyond the Senses",
+    "artists": "Astrix",
+    "album": "Artcore",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Prime, Pulse",
+    "artists": "Sysdemes",
+    "album": "Youth"
+  },
+  {
+    "song": "Sin",
+    "artists": "Kai Wachi",
+    "album": "Sin",
+    "genres": "brostep, deathstep, dubstep"
+  },
+  {
+    "song": "CLINCH",
+    "artists": "Kai Wachi, Prosecute",
+    "album": "RISE OF THE DEMIGOD",
+    "genres": "brostep, deathstep, dubstep"
+  },
+  {
+    "song": "CHOKE",
+    "artists": "Kai Wachi",
+    "album": "RISE OF THE DEMIGOD",
+    "genres": "brostep, deathstep, dubstep"
+  },
+  {
+    "song": "Hollow",
+    "artists": "Famous Dex, Kai Wachi",
+    "album": "DEMIGOD",
+    "genres": "brostep, deathstep, dubstep"
+  },
+  {
+    "song": "Between the Lines",
+    "artists": "Kai Wachi, Sullivan King",
+    "album": "DEMIGOD",
+    "genres": "brostep, deathstep, dubstep"
+  },
+  {
+    "song": "Demigod",
+    "artists": "Kai Wachi",
+    "album": "DEMIGOD",
+    "genres": "brostep, deathstep, dubstep"
+  },
+  {
+    "song": "Morenita - Flashmob Remix",
+    "artists": "Flashmob, Ilary Montanari",
+    "album": "Morenita",
+    "genres": "italian tech house"
+  },
+  {
+    "song": "Falling into Place",
+    "artists": "Matt Lange",
+    "album": "There She Goes",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Gassed Up (feat. Flowdan)",
+    "artists": "Flowdan, Subtronics, Zeds Dead",
+    "album": "FRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "There She Goes",
+    "artists": "Matt Lange",
+    "album": "There She Goes",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Tenebre Rosso Sangue (ULTRAKILL Original Game Soundtrack)",
+    "artists": "Keygen Church",
+    "album": "Tenebre Rosso Sangue (ULTRAKILL Original Game Soundtrack)"
+  },
+  {
+    "song": "FUNcKED",
+    "artists": "Subtronics",
+    "album": "FRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "El Baile del Nahual - Original",
+    "artists": "Nicola Cruz",
+    "album": "Visceral 054"
+  },
+  {
+    "song": "Mantis - Original Mix",
+    "artists": "Nicola Cruz",
+    "album": "Invocacion",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Invocacion - Original Mix",
+    "artists": "Nicola Cruz",
+    "album": "Invocacion",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Maze Of Punishment",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. II",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Keep Turning",
+    "artists": "Audialist",
+    "album": "Audialist",
+    "genres": "substep"
+  },
+  {
+    "song": "Argeman",
+    "artists": "Guy J",
+    "album": "The Trees, the Sea \u0026 the Sun",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "We Do It Best",
+    "artists": "Guy J",
+    "album": "Vaga / We Do It Best",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "Provokoter",
+    "artists": "Guy J",
+    "album": "Nirvana",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "Diagonal",
+    "artists": "Guy J",
+    "album": "MDQ / Diagonal",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "Small Alarms",
+    "artists": "Guy J",
+    "album": "Small Alarms / Modulator / The Fall",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "River",
+    "artists": "Astrix, Guy J",
+    "album": "River / Tree of Life",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "Last Standing",
+    "artists": "Guy J",
+    "album": "Last Standing / Fire",
+    "genres": "classic progressive house, israeli techno, minimal techno"
+  },
+  {
+    "song": "Post Requisite",
+    "artists": "Flying Lotus",
+    "album": "Flamagra",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Pickled!",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Clock Catcher",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Drips//Auntie\u0027s Harp",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Dance Of The Pseudo Nymph",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Satelllliiiiiiiteee",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Do The Astral Plane",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Zodiac Shit",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "Nose Art",
+    "artists": "Flying Lotus",
+    "album": "Cosmogramma",
+    "genres": "afrofuturism, alternative hip hop, electronica, escape room, experimental hip hop, glitch, glitch hop, indietronica, instrumental hip hop, intelligent dance music, jazztronica, psychedelic hip hop, wonky"
+  },
+  {
+    "song": "He.art",
+    "artists": "Astrix",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Alien Turned Human",
+    "artists": "Astrix",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "7700M - Original Mix",
+    "artists": "Ishome",
+    "album": "Eva",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Surface Wave",
+    "artists": "Alter/Ego, RemK",
+    "album": "Alter/Ego Volume I"
+  },
+  {
+    "song": "Ken Tavr",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Hope Is Not Allowed",
+    "artists": "Ishome",
+    "album": "Synthposium"
+  },
+  {
+    "song": "Exit - Original Mix",
+    "artists": "Ishome",
+    "album": "Exit - Single",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Makenoise - Original Mix",
+    "artists": "Ishome",
+    "album": "Festival Lounge Sampler: Winter Edition"
+  },
+  {
+    "song": "Syndicate",
+    "artists": "Sysdemes",
+    "album": "Syndicate"
+  },
+  {
+    "song": "Bleed",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. 1.5",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Gates Of Hell",
+    "artists": "MVRDA, SVDDEN DEATH",
+    "album": "VOYD Vol. I",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "The Last Elder",
+    "artists": "Excision",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Destroid 10 Funk Hole",
+    "artists": "Excision, Space Laces",
+    "album": "Destroid - The Invasion",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Behemoth",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. I",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Surrender",
+    "artists": "SVDDEN DEATH, Subtronics",
+    "album": "Junkworld EP",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Castles",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. I",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Behemoth VIP",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. 1.5",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Born To Suffer",
+    "artists": "SVDDEN DEATH",
+    "album": "Born To Suffer",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Twilight Reflector",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. II",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Rings Of Pluto",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. II",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Magic Armour",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. II",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Shallow Land Burial",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. II",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Dream Sequence",
+    "artists": "SVDDEN DEATH",
+    "album": "VOYD Vol. II",
+    "genres": "deathstep, dubstep, riddim dubstep"
+  },
+  {
+    "song": "Pursuit of Violence",
+    "artists": "SVDDEN DEATH, Sullivan King",
+    "album": "Thrones of Blood",
+    "genres": "dubstep"
+  },
+  {
+    "song": "Aeqoura",
+    "artists": "Ghostek",
+    "album": "Aequora",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Shortcuts",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Autumn Insomnia Jam Session",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Parkways",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Kirlian Isles II",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Lawn Wake IX",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "My Life Of Loving Ghosts",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Dominate VIP",
+    "artists": "Space Laces",
+    "album": "Dominate VIP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "War",
+    "artists": "Sullivan King",
+    "album": "To The Grave",
+    "genres": "dubstep"
+  },
+  {
+    "song": "?? (Road Dog Anthem)",
+    "artists": "Sullivan King",
+    "album": "Thrones of Blood",
+    "genres": "dubstep"
+  },
+  {
+    "song": "The Dead March",
+    "artists": "Ray Volpe, Sullivan King",
+    "album": "Thrones of Blood",
+    "genres": "dubstep"
+  },
+  {
+    "song": "Die By My Hand",
+    "artists": "Left to Suffer, Sullivan King, Vastive",
+    "album": "Thrones of Blood",
+    "genres": "dubstep"
+  },
+  {
+    "song": "Riot",
+    "artists": "Kai Wachi, Sullivan King",
+    "album": "Thrones of Blood",
+    "genres": "dubstep"
+  },
+  {
+    "song": "Came To Rage",
+    "artists": "Sullivan King",
+    "album": "Thrones of Blood",
+    "genres": "dubstep"
+  },
+  {
+    "song": "Kirlian Shores",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Kirlian Choices",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Transformation",
+    "artists": "Gydra",
+    "album": "Neft EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Mercury",
+    "artists": "Gydra",
+    "album": "Neft EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Morai",
+    "artists": "Gydra",
+    "album": "Neft EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Neft",
+    "artists": "Gydra",
+    "album": "Neft EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Esik Iclik",
+    "artists": "Ruby My Dear",
+    "album": "Ginkgo",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Splenetic",
+    "artists": "Ruby My Dear",
+    "album": "Phlegm",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Babil (Alternate Take)",
+    "artists": "Ruby My Dear",
+    "album": "Phlegm",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Jit Thin",
+    "artists": "Ruby My Dear",
+    "album": "Phlegm",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Dédaism",
+    "artists": "Ruby My Dear",
+    "album": "Phlegm",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Windowz8",
+    "artists": "Ruby My Dear",
+    "album": "Basic",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Gaviscon",
+    "artists": "Ruby My Dear",
+    "album": "Brame",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Feeling Good",
+    "artists": "Ava Asante, Mollono.Bass",
+    "album": "Birds Flying High",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Paradisvogel",
+    "artists": "Ava Asante, Mollono.Bass",
+    "album": "Birds Flying High",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Afrodisia",
+    "artists": "Ava Asante, Mollono.Bass",
+    "album": "Birds Flying High",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Wasi Wasi",
+    "artists": "Ava Asante, Mollono.Bass",
+    "album": "Birds Flying High",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Circus Fantasia",
+    "artists": "Ava Asante, Mollono.Bass",
+    "album": "Birds Flying High",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Jungle Dub",
+    "artists": "Ava Asante, Mollono.Bass",
+    "album": "Birds Flying High",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Serpent",
+    "artists": "Audialist",
+    "album": "Audialist Select",
+    "genres": "substep"
+  },
+  {
+    "song": "Manna",
+    "artists": "Audialist",
+    "album": "Burning / Manna",
+    "genres": "substep"
+  },
+  {
+    "song": "Burning",
+    "artists": "Audialist",
+    "album": "Burning / Manna",
+    "genres": "substep"
+  },
+  {
+    "song": "Kenzo",
+    "artists": "Koen Groeneveld",
+    "album": "Nowhere / Kenzo",
+    "genres": "dark techno, house"
+  },
+  {
+    "song": "Rampage",
+    "artists": "Gydra",
+    "album": "Unhinged",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Mellann",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Binedump",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Creep",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Passage D",
+    "artists": "The Flashbulb",
+    "album": "Kirlian Selections",
+    "genres": "breakcore, drill and bass, intelligent dance music"
+  },
+  {
+    "song": "Colour Eye",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Lithium",
+    "artists": "Sysdemes",
+    "album": "Lithium"
+  },
+  {
+    "song": "Splinters",
+    "artists": "Space Laces",
+    "album": "High Vaultage EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Believe",
+    "artists": "Jacques Greene",
+    "album": "Believe",
+    "genres": "canadian electronic, electronica, future garage, wonky"
+  },
+  {
+    "song": "24 Hours",
+    "artists": "Volor Flex",
+    "album": "Split",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "Blowing Smoke",
+    "artists": "Volor Flex",
+    "album": "Blowing Smoke",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "The Wind in the Trees",
+    "artists": "Volor Flex",
+    "album": "Blowing Smoke",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "Day\u0027s End",
+    "artists": "Volor Flex",
+    "album": "Blowing Smoke",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "About You",
+    "artists": "Volor Flex",
+    "album": "The Conspiracy",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "City Pressure",
+    "artists": "Bulb, Volor Flex",
+    "album": "The Conspiracy",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "The Conspiracy",
+    "artists": "Encode, Volor Flex",
+    "album": "The Conspiracy",
+    "genres": "future garage, russian electronic, substep"
+  },
+  {
+    "song": "Fold",
+    "artists": "Bonobo, Jacques Greene",
+    "album": "Fold",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Cabin Fever",
+    "artists": "Subtronics",
+    "album": "FRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "Cantuta",
+    "artists": "Floret Loret",
+    "album": "Tangled Roots"
+  },
+  {
+    "song": "Bishop",
+    "artists": "Sysdemes",
+    "album": "Bishop"
+  },
+  {
+    "song": "Touched",
+    "artists": "Astrix",
+    "album": "One Step Ahead",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Lost Inside",
+    "artists": "Astrix",
+    "album": "One Step Ahead",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Just in Time",
+    "artists": "Astrix",
+    "album": "One Step Ahead",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Ghost Synths",
+    "artists": "Feed Me",
+    "album": "Ghost Synths",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Coven",
+    "artists": "ASHE, Sysdemes",
+    "album": "Coven"
+  },
+  {
+    "song": "Heaven",
+    "artists": "Low Deep T",
+    "album": "We Are One"
+  },
+  {
+    "song": "Drive",
+    "artists": "Low Deep T",
+    "album": "We Are One"
+  },
+  {
+    "song": "Nights of Passion",
+    "artists": "Low Deep T",
+    "album": "We Are One"
+  },
+  {
+    "song": "Number 1",
+    "artists": "Low Deep T",
+    "album": "We Are One"
+  },
+  {
+    "song": "Feelings 4 U",
+    "artists": "Low Deep T",
+    "album": "We Are One"
+  },
+  {
+    "song": "Casablanca",
+    "artists": "Low Deep T",
+    "album": "We Are One"
+  },
+  {
+    "song": "Lockdown",
+    "artists": "Excision, Wooli",
+    "album": "Evolution EP",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Name Drop",
+    "artists": "Excision, Wooli",
+    "album": "Name Drop",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Titans",
+    "artists": "Excision, Wooli",
+    "album": "Titans",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Vaultage 003",
+    "artists": "Space Laces",
+    "album": "Vaultage 003",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Vaultage 002",
+    "artists": "Space Laces",
+    "album": "Vaultage 002",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Vaultage 001",
+    "artists": "Space Laces",
+    "album": "Vaultage 001",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Dia En El Mar",
+    "artists": "JPattersson, Jörg Schwenzer, Mollono.Bass",
+    "album": "Woods, Tales \u0026 Friends",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Flamingobouletten",
+    "artists": "Marc Vogler, Mollono.Bass",
+    "album": "Woods, Tales \u0026 Friends",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Furaha Ya Kucheza",
+    "artists": "Mollono.Bass",
+    "album": "Woods, Tales \u0026 Friends",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "The Oracle",
+    "artists": "Mollono.Bass",
+    "album": "Woods, Tales \u0026 Friends",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Wild River",
+    "artists": "Mollono.Bass",
+    "album": "Woods, Tales \u0026 Friends",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Visions Of A Better World",
+    "artists": "Mollono.Bass",
+    "album": "Woods, Tales \u0026 Friends",
+    "genres": "deep euro house, organic house"
+  },
+  {
+    "song": "Survive",
+    "artists": "Space Laces",
+    "album": "Survive",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Nothing - Original Mix",
+    "artists": "Ishome",
+    "album": "Eva",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Eva - Original Mix",
+    "artists": "Ishome",
+    "album": "Eva",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Hieroglyph VIP",
+    "artists": "Subtronics",
+    "album": "ANTIFRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "Take Flight VIP",
+    "artists": "Subtronics, Sullivan King",
+    "album": "FRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "Cyclops Rocks VIP",
+    "artists": "Subtronics",
+    "album": "ANTIFRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "Take Flight Tech House VIP",
+    "artists": "Subtronics, Sullivan King",
+    "album": "ANTIFRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "Bunker Buster VIP",
+    "artists": "Excision, Subtronics",
+    "album": "ANTIFRACTALS",
+    "genres": "brostep"
+  },
+  {
+    "song": "Greenhouse",
+    "artists": "Monkey Safari",
+    "album": "Greenhouse",
+    "genres": "deep euro house"
+  },
+  {
+    "song": "Artifact",
+    "artists": "Monkey Safari",
+    "album": "Palomar",
+    "genres": "deep euro house"
+  },
+  {
+    "song": "Palomar",
+    "artists": "Monkey Safari",
+    "album": "Palomar",
+    "genres": "deep euro house"
+  },
+  {
+    "song": "Nowhere",
+    "artists": "Koen Groeneveld",
+    "album": "Nowhere / Kenzo",
+    "genres": "dark techno, house"
+  },
+  {
+    "song": "Satyr Song (Original Mix)",
+    "artists": "Pleasurekraft",
+    "album": "Satyr Song",
+    "genres": "dark techno, minimal techno"
+  },
+  {
+    "song": "Tarantula - Original Mix",
+    "artists": "Pleasurekraft",
+    "album": "Tarantula (7 Year Itch Rework)",
+    "genres": "dark techno, minimal techno"
+  },
+  {
+    "song": "Twist",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Show Me The Way",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Dialysis",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Lame Game",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Resist",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Iconspiracy",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Prestige",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Darkest Hour",
+    "artists": "Ghostek",
+    "album": "Iconspiracy",
+    "genres": "future garage, substep"
+  },
+  {
+    "song": "Party Planners 2.1",
+    "artists": "Electric Universe, Mad Tribe",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "World of Waves",
+    "artists": "Electric Universe",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Time Bender",
+    "artists": "Electric Universe",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Mandala",
+    "artists": "Electric Universe",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Calling for Peace",
+    "artists": "Electric Universe, Faders",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Ancient Aum",
+    "artists": "Ace Ventura, Electric Universe",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Satory",
+    "artists": "Electric Universe, Raja Ram",
+    "album": "Sacred Geometry",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Mist",
+    "artists": "Ishome",
+    "album": "Caraboo",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Heute",
+    "artists": "Ishome",
+    "album": "Caraboo",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Caraboo",
+    "artists": "Ishome",
+    "album": "Caraboo",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Tetra 94 - Part 2",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Tetra 94 - Part 1",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "It Exists",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Grade",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Wildness",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Adam",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Earth",
+    "artists": "Ishome",
+    "album": "Confession",
+    "genres": "ambient idm, russian electronic, russian experimental electronic, substep"
+  },
+  {
+    "song": "Escape",
+    "artists": "Vacant",
+    "album": "Escape",
+    "genres": "substep, wave"
+  },
+  {
+    "song": "Thimbu",
+    "artists": "Sound Quelle",
+    "album": "Iridescent",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Soiak",
+    "artists": "Sound Quelle",
+    "album": "Iridescent",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Boddhidharma",
+    "artists": "Sound Quelle",
+    "album": "Iridescent",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Alwazarg",
+    "artists": "Sound Quelle",
+    "album": "Iridescent",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Clazamas",
+    "artists": "Sound Quelle",
+    "album": "Iridescent",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Windra",
+    "artists": "Sound Quelle",
+    "album": "Iridescent",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Vengeance Is My Name",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "BIGDICKTANASE BDT",
+    "artists": "Sex Pula Pistol",
+    "album": "POARTA IADULUI / RAIULUI",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Along Came Polly - Original Mix",
+    "artists": "Reb?ke",
+    "album": "Along Came Polly",
+    "genres": "irish electronic"
+  },
+  {
+    "song": "Porto",
+    "artists": "Worakls",
+    "album": "Utopia / Porto"
+  },
+  {
+    "song": "Hung",
+    "artists": "Sound Quelle",
+    "album": "Trait",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Asanchi",
+    "artists": "Sound Quelle",
+    "album": "Trait",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Chernobo",
+    "artists": "Sound Quelle",
+    "album": "Trait",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Znan",
+    "artists": "Sound Quelle",
+    "album": "Trait",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Birffa",
+    "artists": "Sound Quelle",
+    "album": "Trait",
+    "genres": "progressive trance house"
+  },
+  {
+    "song": "Truth Bomber",
+    "artists": "Hedflux",
+    "album": "The Philosopher\u0027s Tone",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Tool",
+    "artists": "Tao H",
+    "album": "Tool",
+    "genres": "tekno"
+  },
+  {
+    "song": "575 Replacement",
+    "artists": "Sysdemes",
+    "album": "575 Replacement"
+  },
+  {
+    "song": "Contact Note",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Circle",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Second Sense",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Symmetry",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Sleepwalker",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "100",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Nightjar",
+    "artists": "Jon Hopkins",
+    "album": "Contact Note",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Scatter",
+    "artists": "Sysdemes",
+    "album": "Scatter"
+  },
+  {
+    "song": "Wings of Eagles",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Raven\u0027s Flight",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Ironside",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Mjolner, Hammer of Thor",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Into the Dark",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Valkyria",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Shield Wall",
+    "artists": "Amon Amarth",
+    "album": "Berserker",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Polaris",
+    "artists": "Dirtwire",
+    "album": "Ghostcatcher",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Earth to Make Rain",
+    "artists": "Dirtwire",
+    "album": "Ghostcatcher",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Joshua Tree",
+    "artists": "Dirtwire",
+    "album": "Ghostcatcher",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Shamanic Tales",
+    "artists": "Astrix",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Souldia",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Mamba",
+    "artists": "Emancipator, Lapa, Marley Carroll",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Magneato",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Vortex Cortex",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Leopard Shepard",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Lobetrotter",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Xenomena",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Hailo",
+    "artists": "Emancipator, Lapa",
+    "album": "11th Orbit",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Zungguzungguguzungguzeng",
+    "artists": "Yellowman",
+    "album": "Most Wanted Series - Yellowman",
+    "genres": "dub, reggae, roots reggae"
+  },
+  {
+    "song": "The Cyber Grind",
+    "artists": "meganeko",
+    "album": "The Cyber Grind",
+    "genres": "chiptune, speedrun"
+  },
+  {
+    "song": "Groundscore",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Low Battery Acid",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Guilty Feet",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Pillow Roulette",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Knee Pads",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Deal With It Vip",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Goner",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Rancid Shuff",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Trouble Pig",
+    "artists": "Tipper",
+    "album": "Marble Hunting",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Into the Wild",
+    "artists": "Lifeforms",
+    "album": "Into the Wild",
+    "genres": "progressive psytrance, psychedelic trance"
+  },
+  {
+    "song": "Some Things",
+    "artists": "Vakhtang",
+    "album": "Some Things",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Aesthetics",
+    "artists": "Vakhtang",
+    "album": "Aesthetics",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "COLLIDER",
+    "artists": "Shadient",
+    "album": "COLLIDER",
+    "genres": "experimental bass, future bass"
+  },
+  {
+    "song": "ATK",
+    "artists": "Bonobo",
+    "album": "Defender",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "One of a Kind",
+    "artists": "Lifeforms, Symbolic",
+    "album": "Into the Wild",
+    "genres": "progressive psytrance, psychedelic trance"
+  },
+  {
+    "song": "Divinity\u0027s Descent",
+    "artists": "Syberlilly, Sysdemes",
+    "album": "Divinity\u0027s Descent"
+  },
+  {
+    "song": "Back To The Start",
+    "artists": "Sysdemes",
+    "album": "Back To The Start"
+  },
+  {
+    "song": "Misery",
+    "artists": "Sysdemes",
+    "album": "Misery"
+  },
+  {
+    "song": "Artifact",
+    "artists": "Gydra",
+    "album": "Junk Box",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Spirits",
+    "artists": "Dextems, Gydra",
+    "album": "Junk Box",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Shell Pet",
+    "artists": "Feed Me",
+    "album": "Feed Me\u0027s Existential Crisis",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Starcrash",
+    "artists": "Feed Me",
+    "album": "Feed Me\u0027s Existential Crisis",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Existential Crisis",
+    "artists": "Feed Me",
+    "album": "Feed Me\u0027s Existential Crisis",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Loot Ninja",
+    "artists": "Gydra",
+    "album": "Junk Box",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Personal Killer",
+    "artists": "Gydra",
+    "album": "Junk Box",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Everyday",
+    "artists": "Gydra",
+    "album": "Junk Box",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Etherea",
+    "artists": "JaguarTree",
+    "album": "Sound Archetypes"
+  },
+  {
+    "song": "Zephyr",
+    "artists": "JaguarTree",
+    "album": "Sound Archetypes"
+  },
+  {
+    "song": "Elysian",
+    "artists": "JaguarTree",
+    "album": "Sound Archetypes"
+  },
+  {
+    "song": "Eons Beyond",
+    "artists": "JaguarTree",
+    "album": "Sound Archetypes"
+  },
+  {
+    "song": "Exaltation",
+    "artists": "Sumiruna",
+    "album": "Exaltation",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Reverence",
+    "artists": "Sumiruna",
+    "album": "Exaltation",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Malleable",
+    "artists": "Sumiruna",
+    "album": "Exaltation",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Catharsis",
+    "artists": "Sumiruna",
+    "album": "Exaltation",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Visceral",
+    "artists": "Lumen, Sumiruna",
+    "album": "Exaltation",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Reverie",
+    "artists": "Sumiruna",
+    "album": "Exaltation",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Feeling So Free",
+    "artists": "Feed Me",
+    "album": "Feeling So Free",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Dreamlore",
+    "artists": "Menual, Pensees",
+    "album": "Movement"
+  },
+  {
+    "song": "Movement",
+    "artists": "Menual, Pensees",
+    "album": "Movement"
+  },
+  {
+    "song": "Disconnect",
+    "artists": "Menual, Pensees",
+    "album": "Movement"
+  },
+  {
+    "song": "Planetary",
+    "artists": "Menual, Pensees",
+    "album": "Movement"
+  },
+  {
+    "song": "MilkyWay",
+    "artists": "Menual",
+    "album": "Impulse"
+  },
+  {
+    "song": "Impulse",
+    "artists": "Menual",
+    "album": "Impulse"
+  },
+  {
+    "song": "Radiance",
+    "artists": "Menual",
+    "album": "Impulse"
+  },
+  {
+    "song": "Aurora",
+    "artists": "Menual",
+    "album": "Impulse"
+  },
+  {
+    "song": "Neptune",
+    "artists": "Menual",
+    "album": "Neptune"
+  },
+  {
+    "song": "Flashback",
+    "artists": "Menual",
+    "album": "Flashback"
+  },
+  {
+    "song": "Anything You Need",
+    "artists": "Kerry Leva, Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Shimmer",
+    "artists": "Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "MRFB",
+    "artists": "Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Within One And Another",
+    "artists": "Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Quiet Symphony",
+    "artists": "Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Rimshot",
+    "artists": "Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Les Is More",
+    "artists": "Matt Lange",
+    "album": "Dichotomy",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Endings",
+    "artists": "Sysdemes",
+    "album": "Fade"
+  },
+  {
+    "song": "Dislocation",
+    "artists": "Sysdemes",
+    "album": "Fade"
+  },
+  {
+    "song": "Awkward",
+    "artists": "Sysdemes",
+    "album": "Fade"
+  },
+  {
+    "song": "Multiplication",
+    "artists": "Sysdemes",
+    "album": "calculating the end"
+  },
+  {
+    "song": "Division",
+    "artists": "Sysdemes",
+    "album": "calculating the end"
+  },
+  {
+    "song": "Addition",
+    "artists": "Sysdemes",
+    "album": "calculating the end"
+  },
+  {
+    "song": "Subtraction",
+    "artists": "Sysdemes",
+    "album": "calculating the end"
+  },
+  {
+    "song": "Minimum Wage",
+    "artists": "Sysdemes",
+    "album": "Fade"
+  },
+  {
+    "song": "Botanical Labyrinth",
+    "artists": "Floret Loret",
+    "album": "Secluded Garden"
+  },
+  {
+    "song": "Red Smoke",
+    "artists": "Floret Loret",
+    "album": "Secluded Garden"
+  },
+  {
+    "song": "Sunshine",
+    "artists": "Seismal D",
+    "album": "Sunshine",
+    "genres": "deep minimal techno"
+  },
+  {
+    "song": "Chromatic",
+    "artists": "Sysdemes",
+    "album": "Chromatic"
+  },
+  {
+    "song": "Magenta Petals",
+    "artists": "Floret Loret",
+    "album": "Secluded Garden"
+  },
+  {
+    "song": "Phantasia",
+    "artists": "Seismal D",
+    "album": "Phantasia",
+    "genres": "deep minimal techno"
+  },
+  {
+    "song": "Euphoria",
+    "artists": "Seismal D",
+    "album": "Euphoria",
+    "genres": "deep minimal techno"
+  },
+  {
+    "song": "Cobalt",
+    "artists": "Librae, Seismal D",
+    "album": "Cobalt"
+  },
+  {
+    "song": "Afterblooms",
+    "artists": "Floret Loret",
+    "album": "Prosper EP"
+  },
+  {
+    "song": "Abscissions",
+    "artists": "Floret Loret",
+    "album": "Prosper EP"
+  },
+  {
+    "song": "Nu Bloom",
+    "artists": "Floret Loret",
+    "album": "Prosper EP"
+  },
+  {
+    "song": "Sage",
+    "artists": "Floret Loret",
+    "album": "Secluded Garden"
+  },
+  {
+    "song": "Into the Waters",
+    "artists": "Floret Loret",
+    "album": "Undulations"
+  },
+  {
+    "song": "It Comes in Waves",
+    "artists": "Floret Loret",
+    "album": "Undulations"
+  },
+  {
+    "song": "Boundary (numb)",
+    "artists": "Sysdemes",
+    "album": "Accelerate"
+  },
+  {
+    "song": "Froggy",
+    "artists": "Sysdemes",
+    "album": "Accelerate"
+  },
+  {
+    "song": "Dragon\u0027s Gamble",
+    "artists": "Sysdemes",
+    "album": "Accelerate"
+  },
+  {
+    "song": "Mini Short",
+    "artists": "Ruby My Dear",
+    "album": "Brame",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "nxs",
+    "artists": "Sysdemes",
+    "album": "Inertia"
+  },
+  {
+    "song": "sewerslide",
+    "artists": "Sysdemes",
+    "album": "angel rare"
+  },
+  {
+    "song": "Astral Evolution",
+    "artists": "Syberlilly, Sysdemes",
+    "album": "angel rare"
+  },
+  {
+    "song": "exist",
+    "artists": "Sysdemes",
+    "album": "Accelerate"
+  },
+  {
+    "song": "First Aid",
+    "artists": "Sysdemes",
+    "album": "Inertia"
+  },
+  {
+    "song": "era, ov",
+    "artists": "Sysdemes",
+    "album": "Inertia"
+  },
+  {
+    "song": "Clouted",
+    "artists": "Sysdemes",
+    "album": "angel rare"
+  },
+  {
+    "song": "Focus",
+    "artists": "Sysdemes",
+    "album": "angel rare"
+  },
+  {
+    "song": "Virus",
+    "artists": "Excision",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Hypnosis",
+    "artists": "Excision, Hairitage",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Disco Bloodbath",
+    "artists": "Space Laces",
+    "album": "High Vaultage EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Not Bees",
+    "artists": "Space Laces, Watch",
+    "album": "High Vaultage EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Torque",
+    "artists": "Space Laces",
+    "album": "Overdrive EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Kaiju",
+    "artists": "Space Laces",
+    "album": "Overdrive EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Overdrive",
+    "artists": "Space Laces",
+    "album": "Overdrive EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Curious George",
+    "artists": "Culprate",
+    "album": "Flatline",
+    "genres": "filthstep"
+  },
+  {
+    "song": "The Last Pulsar",
+    "artists": "Dirtwire",
+    "album": "RipTide",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Polar Vortex",
+    "artists": "Dirtwire",
+    "album": "RipTide",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Tepotzteco",
+    "artists": "Dirtwire",
+    "album": "RipTide",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Rollin\u0027",
+    "artists": "Dirtwire",
+    "album": "RipTide",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "RipTide",
+    "artists": "Dirtwire",
+    "album": "RipTide",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Aura Lore",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Cymbol",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Days Gone",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Aeris",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Vaults",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Loop Theory",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Two Suns",
+    "artists": "Tor",
+    "album": "Blue Book",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Nammu",
+    "artists": "Culprate",
+    "album": "??????? ???????",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Muerte De La Dama",
+    "artists": "Culprate",
+    "album": "??????? ???????",
+    "genres": "filthstep"
+  },
+  {
+    "song": "????? (Jalaana)",
+    "artists": "Culprate",
+    "album": "??????? ???????",
+    "genres": "filthstep"
+  },
+  {
+    "song": "The Psychology of James Berland",
+    "artists": "Culprate",
+    "album": "??????? ???????",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Fly",
+    "artists": "Culprate",
+    "album": "??????? ???????",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Anza",
+    "artists": "Culprate",
+    "album": "??????? ???????",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Bungee Jump",
+    "artists": "Astrix, Captain Hook",
+    "album": "Akashic Library",
+    "genres": "progressive psytrance, psychedelic trance"
+  },
+  {
+    "song": "Burning Stones",
+    "artists": "Astrix, Freedom Fighters",
+    "album": "Burning Stones",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Did You",
+    "artists": "Dirtwire",
+    "album": "RipTide",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Scathed - Sumiruna Mix",
+    "artists": "Ryanosaurus, Sumiruna",
+    "album": "Intrepid",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Tethered",
+    "artists": "Ambler, Sumiruna",
+    "album": "Intrepid",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Intrepid",
+    "artists": "Sumiruna",
+    "album": "Intrepid",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Engulfed",
+    "artists": "Sumiruna",
+    "album": "Intrepid",
+    "genres": "zenonesque"
+  },
+  {
+    "song": "Crusher",
+    "artists": "Excision",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Encounter",
+    "artists": "Dion Timmer, Excision",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Clockwork",
+    "artists": "Excision, Kompany",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Osiris",
+    "artists": "Excision",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Demisaur",
+    "artists": "Excision, Kai Wachi",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Cough Drop",
+    "artists": "Excision",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Decimate",
+    "artists": "Excision",
+    "album": "Onyx",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Power",
+    "artists": "Excision",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Fall",
+    "artists": "Excision",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Fight Through The Pain",
+    "artists": "Excision, Sullivan King",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Vault",
+    "artists": "Excision",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "1 On 1",
+    "artists": "Excision, Space Laces",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Exterminate",
+    "artists": "Excision",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Hoods Up",
+    "artists": "Dion Timmer, Excision, Messinian",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Rumble",
+    "artists": "Excision, Space Laces",
+    "album": "Apex",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "No Grip",
+    "artists": "Feed Me",
+    "album": "Calamari Tuesday",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "High Noon",
+    "artists": "Feed Me",
+    "album": "A Giant Warrior Descends on Tokyo",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Different World",
+    "artists": "Feed Me",
+    "album": "A Giant Warrior Descends on Tokyo",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Shimmer",
+    "artists": "Feed Me",
+    "album": "High Street Creeps",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Trichitillomania",
+    "artists": "Feed Me",
+    "album": "Feed Me\u0027s Escape from Electric Mountain",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Barrel Roll",
+    "artists": "Feed Me",
+    "album": "High Street Creeps",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Sleepless",
+    "artists": "Feed Me",
+    "album": "High Street Creeps",
+    "genres": "brostep, complextro, edm, electro house, filthstep"
+  },
+  {
+    "song": "Parallels",
+    "artists": "Day Din, Gaudium",
+    "album": "Parallels",
+    "genres": "german trance, progressive psytrance, psychedelic trance"
+  },
+  {
+    "song": "Atlas",
+    "artists": "Doctor Flake",
+    "album": "Atlas",
+    "genres": "hip-hop experimental, laboratorio"
+  },
+  {
+    "song": "Off The Ground",
+    "artists": "Sub Focus",
+    "album": "Off The Ground",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Nobody Knows",
+    "artists": "Sub Focus",
+    "album": "Nobody Knows",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Enemy",
+    "artists": "Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Tomb Raver",
+    "artists": "Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Guess What",
+    "artists": "Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Adrenaline",
+    "artists": "Hacktivist, Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Made of Glass",
+    "artists": "Joe Ford, Koven",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Standing on the Shoulders of Giants",
+    "artists": "Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Master This",
+    "artists": "Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Cosine",
+    "artists": "Joe Ford",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Out of Place",
+    "artists": "Joe Ford, Memtrix",
+    "album": "Colours in Sound",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Savage",
+    "artists": "KUURO",
+    "album": "Savage",
+    "genres": "game mood"
+  },
+  {
+    "song": "Jindigo",
+    "artists": "Ekcle",
+    "album": "Jindigo",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "Serené Mont Garde",
+    "artists": "Ekcle",
+    "album": "Deshoda",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "A Giant Carries the City",
+    "artists": "Ekcle",
+    "album": "Deshoda",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "Sky River",
+    "artists": "Jacques Greene, Satomimagae",
+    "album": "Fantasy",
+    "genres": "canadian electronic, electronica, future garage, wonky"
+  },
+  {
+    "song": "Memory Screen + Fantasy",
+    "artists": "Jacques Greene",
+    "album": "Fantasy",
+    "genres": "canadian electronic, electronica, future garage, wonky"
+  },
+  {
+    "song": "Urgency - Original Mix",
+    "artists": "Joe Ford",
+    "album": "Abstract Places EP",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "The End - Original Mix",
+    "artists": "Joe Ford",
+    "album": "Abstract Places EP",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "War March - Original Mix",
+    "artists": "Joe Ford",
+    "album": "Abstract Places EP",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Caution",
+    "artists": "Joe Ford, Linguistics",
+    "album": "Let It Out",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Ionize",
+    "artists": "Joe Ford",
+    "album": "Let It Out",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Let It Out",
+    "artists": "Joe Ford",
+    "album": "Let It Out",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Culture",
+    "artists": "Joe Ford",
+    "album": "Culture",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Distilled",
+    "artists": "Joe Ford",
+    "album": "Culture",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "Villain",
+    "artists": "Joe Ford",
+    "album": "Culture",
+    "genres": "future rock, neurofunk, neurostep"
+  },
+  {
+    "song": "RUK",
+    "artists": "RefraQ",
+    "album": "RUK",
+    "genres": "future bass"
+  },
+  {
+    "song": "Taurus",
+    "artists": "Jacques Greene",
+    "album": "Fantasy",
+    "genres": "canadian electronic, electronica, future garage, wonky"
+  },
+  {
+    "song": "Delirium City",
+    "artists": "Tao H",
+    "album": "Psytribe",
+    "genres": "tekno"
+  },
+  {
+    "song": "Psytar",
+    "artists": "Tao H",
+    "album": "Psytribe",
+    "genres": "tekno"
+  },
+  {
+    "song": "In the Forrest",
+    "artists": "Tao H",
+    "album": "Psytribe",
+    "genres": "tekno"
+  },
+  {
+    "song": "Killerswing",
+    "artists": "Tao H",
+    "album": "Psytribe",
+    "genres": "tekno"
+  },
+  {
+    "song": "Fluid Flow",
+    "artists": "Tao H",
+    "album": "Psytribe",
+    "genres": "tekno"
+  },
+  {
+    "song": "Odyssey Voice",
+    "artists": "Tao H",
+    "album": "Psytribe",
+    "genres": "tekno"
+  },
+  {
+    "song": "Karma",
+    "artists": "Reality Test, Shanti People, Vini Vici",
+    "album": "Karma",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "One with the Universe - Side A",
+    "artists": "Bliss, Ritmo",
+    "album": "One with the Universe",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Wipe",
+    "artists": "Gydra, IHR",
+    "album": "Snake Monastery",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Hangjaw",
+    "artists": "Gydra",
+    "album": "Snake Monastery",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Snake Style",
+    "artists": "Gydra",
+    "album": "Snake Monastery",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Stoning",
+    "artists": "Gydra",
+    "album": "Snake Monastery",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Shadow Strategy",
+    "artists": "Gydra",
+    "album": "Snake Monastery",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Lava Run",
+    "artists": "Gydra",
+    "album": "Snake Monastery",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Chain Gang",
+    "artists": "Gydra",
+    "album": "Unhinged",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Noise Of The Machine",
+    "artists": "Gydra",
+    "album": "Unhinged",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Unhinged",
+    "artists": "Gydra",
+    "album": "Unhinged",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Paralytic Sleep",
+    "artists": "Tao H",
+    "album": "Dreamer",
+    "genres": "tekno"
+  },
+  {
+    "song": "All Night Long",
+    "artists": "Tao H",
+    "album": "Dreamer",
+    "genres": "tekno"
+  },
+  {
+    "song": "Psytribechoristes",
+    "artists": "Tao H",
+    "album": "Dreamer",
+    "genres": "tekno"
+  },
+  {
+    "song": "Synthetic Little Bird",
+    "artists": "Tao H",
+    "album": "Dreamer",
+    "genres": "tekno"
+  },
+  {
+    "song": "Happy Sorrow",
+    "artists": "Tao H",
+    "album": "Dreamer",
+    "genres": "tekno"
+  },
+  {
+    "song": "The Beat",
+    "artists": "Tao H",
+    "album": "Dreamer",
+    "genres": "tekno"
+  },
+  {
+    "song": "Beatdown",
+    "artists": "Gydra",
+    "album": "Beatdown",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Raw Code",
+    "artists": "CZA, Gydra, Optiv",
+    "album": "Beatdown",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Sphere",
+    "artists": "Fatloaf, Gydra",
+    "album": "Beatdown",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Protocol",
+    "artists": "Gydra",
+    "album": "Beatdown",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Primitive Instinct - Original Mix",
+    "artists": "Gydra",
+    "album": "Killparty EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Problem - Original Mix",
+    "artists": "Gydra",
+    "album": "Killparty EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Ikra - Original Mix",
+    "artists": "Gydra",
+    "album": "Killparty EP",
+    "genres": "darkstep, neurofunk, neurostep, russian dnb"
+  },
+  {
+    "song": "Tomahawk",
+    "artists": "Mystic State",
+    "album": "Tomahawk EP",
+    "genres": "bristol electronic, deep dnb"
+  },
+  {
+    "song": "Ceremony",
+    "artists": "Monkey Safari",
+    "album": "Ceremony",
+    "genres": "deep euro house"
+  },
+  {
+    "song": "Mantra",
+    "artists": "Monkey Safari",
+    "album": "Mantra",
+    "genres": "deep euro house"
+  },
+  {
+    "song": "Mirrors",
+    "artists": "Vermont (BR)",
+    "album": "Stars",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Raindrops",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Asterion",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Green Eyes",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Izar",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Papalote",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Vega",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Mustang",
+    "artists": "Dirtwire",
+    "album": "Embers",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Phone Tap",
+    "artists": "Space Laces",
+    "album": "Phone Tap",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Soul of Man",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Mystic Physics",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Meatsuit Maintenance",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Superluminal Sound",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Peyote Dawn",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Sacralicious",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Sananga Serenade",
+    "artists": "Hedflux",
+    "album": "Soul Science",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Brain Ambrosia",
+    "artists": "Hedflux",
+    "album": "Mercurial",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Mercurial",
+    "artists": "Hedflux",
+    "album": "Mercurial",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Equinosis",
+    "artists": "Hedflux",
+    "album": "Mercurial",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Diversion - Original Mix",
+    "artists": "Hedflux",
+    "album": "Diversion / Slippery Triplet",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Alignment - Original Mix",
+    "artists": "Bad Tango, Hedflux",
+    "album": "Alignment",
+    "genres": "psybreaks"
+  },
+  {
+    "song": "Gift of the Goddess",
+    "artists": "Hedflux",
+    "album": "The Philosopher\u0027s Tone",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Sines of Progress",
+    "artists": "Hedflux",
+    "album": "The Philosopher\u0027s Tone",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Breaking Through",
+    "artists": "Hedflux",
+    "album": "The Philosopher\u0027s Tone",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Vitriol",
+    "artists": "Hedflux",
+    "album": "The Philosopher\u0027s Tone",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Corvid Phase",
+    "artists": "Hedflux",
+    "album": "The Philosopher\u0027s Tone",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Lumination",
+    "artists": "Grouch, Hedflux",
+    "album": "Collaborations",
+    "genres": "psybass, psybreaks, psychill"
+  },
+  {
+    "song": "Harmonic Nature",
+    "artists": "Electric Universe, Imagine Mars",
+    "album": "Harmonic Nature",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Alma",
+    "artists": "Vermont (BR)",
+    "album": "Stars",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Survey Selva",
+    "artists": "Vermont (BR)",
+    "album": "Stars",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Andromeda",
+    "artists": "Vermont (BR)",
+    "album": "Stars",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Nyamas",
+    "artists": "8th Sin, Bandi, Vermont (BR)",
+    "album": "Nyamas",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Eternity",
+    "artists": "Pondora, Vermont (BR)",
+    "album": "Eternity",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Nature of Reality",
+    "artists": "Prolix",
+    "album": "Nature of Reality / Sycophant",
+    "genres": "darkstep, neurofunk"
+  },
+  {
+    "song": "Danger",
+    "artists": "Prolix",
+    "album": "Danger",
+    "genres": "darkstep, neurofunk"
+  },
+  {
+    "song": "Skirmish",
+    "artists": "Prolix",
+    "album": "Murder Mile",
+    "genres": "darkstep, neurofunk"
+  },
+  {
+    "song": "Lakshmi",
+    "artists": "Electric Universe",
+    "album": "Lakshmi",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Mantra",
+    "artists": "Electric Universe",
+    "album": "Mantra",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Tear Down Your Walls",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Dancing in a Hurricane",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "The Cosmic Algorithm",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Divide and Conquer",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Universal Death Squad",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "A Phantasmic Parade",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Edge of the Blade",
+    "artists": "Epica",
+    "album": "The Holographic Principle",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Rocket Fuel",
+    "artists": "Prolix",
+    "album": "Rocket Fuel",
+    "genres": "darkstep, neurofunk"
+  },
+  {
+    "song": "No More",
+    "artists": "Dirtwire, Moontricks",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Blaze Up",
+    "artists": "Bliss",
+    "album": "Blaze Up",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Bright Side of the Sun",
+    "artists": "Bliss, Volcano On Mars",
+    "album": "Bright Side of the Sun",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Droid",
+    "artists": "Space Laces",
+    "album": "High Vaultage EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "The Quantum Enigma - Kingdom of Heaven, Pt. II",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Natural Corruption",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Reverence - Living in the Heart",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Sense Without Sanity - The Impervious Code",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Iluminated",
+    "artists": "Vermont (BR)",
+    "album": "Stars",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Stranger",
+    "artists": "Dirtwire",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Arambolian Nights",
+    "artists": "Electric Universe, Hujaboy",
+    "album": "Arambolian Nights",
+    "genres": "full on, progressive psytrance, psychedelic trance"
+  },
+  {
+    "song": "Dominate",
+    "artists": "Space Laces",
+    "album": "Dominate",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Choppaz",
+    "artists": "Getter, Space Laces",
+    "album": "Overdrive EP",
+    "genres": "brostep, dubstep, gaming dubstep"
+  },
+  {
+    "song": "Revival - Original Mix",
+    "artists": "Pondora, Vermont (BR)",
+    "album": "Revival",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Kazahi",
+    "artists": "Bandi, Vermont (BR)",
+    "album": "Kazahi",
+    "genres": "trance brasileiro"
+  },
+  {
+    "song": "Fuego",
+    "artists": "Asa, KOAN Sound",
+    "album": "Sanctuary",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "So Far Away",
+    "artists": "Dirtwire, SK Kakraba",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "All Jaw Harps All the Time",
+    "artists": "Dirtwire",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Still There",
+    "artists": "Dirtwire, Jed and Lucia",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Romare",
+    "artists": "Dirtwire",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Blockchain",
+    "artists": "Dirtwire",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Kalimba Gaida",
+    "artists": "Dirtwire",
+    "album": "Blaze",
+    "genres": "alternative americana"
+  },
+  {
+    "song": "Sahara",
+    "artists": "Astrix",
+    "album": "Sahara",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Sea To Sky",
+    "artists": "Emancipator, Murge",
+    "album": "Sea To Sky",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Dark Matter",
+    "artists": "Bliss",
+    "album": "Dark Matter",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Bansuri",
+    "artists": "Electric Universe",
+    "album": "Bansuri",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Warhead",
+    "artists": "Droptek, MUZZ",
+    "album": "Warhead",
+    "genres": "brostep, dancefloor dnb, gaming edm"
+  },
+  {
+    "song": "Feeling Stronger",
+    "artists": "Charlotte Colley, MUZZ",
+    "album": "Get Crazy / Feeling Stronger",
+    "genres": "brostep, dancefloor dnb, gaming edm"
+  },
+  {
+    "song": "Avoidance",
+    "artists": "Limbo Slice",
+    "album": "Relative Obscurity",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Flare",
+    "artists": "Limbo Slice",
+    "album": "Relative Obscurity",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Eligibility",
+    "artists": "Limbo Slice",
+    "album": "Relative Obscurity",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Xenophobia",
+    "artists": "Limbo Slice",
+    "album": "Relative Obscurity",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Shimmer",
+    "artists": "Limbo Slice",
+    "album": "Relative Obscurity",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Houmous",
+    "artists": "Igorrr",
+    "album": "Savage Sinusoid",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Barocco Satani",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Paranoid Bulldozer Italiano",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Lost in Introspection",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Himalaya Massive Ritual",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Very Noise",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Downgrade Desert",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Get Crazier",
+    "artists": "MUZZ",
+    "album": "Get Crazy / Feeling Stronger (The Remixes)",
+    "genres": "brostep, dancefloor dnb, gaming edm"
+  },
+  {
+    "song": "Get Crazy",
+    "artists": "MUZZ",
+    "album": "Get Crazy / Feeling Stronger",
+    "genres": "brostep, dancefloor dnb, gaming edm"
+  },
+  {
+    "song": "PRIMAH",
+    "artists": "Damien N-Drix",
+    "album": "PRIMAH"
+  },
+  {
+    "song": "Chemical Insomnia",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "The Essence of Silence",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Free Tibet - Vini Vici Remix",
+    "artists": "Hilight Tribe, Vini Vici",
+    "album": "Free Tibet",
+    "genres": "didgeridoo"
+  },
+  {
+    "song": "Barren",
+    "artists": "Calibre",
+    "album": "Feeling Normal",
+    "genres": "drum and bass, jazzy dnb, liquid funk, uk dnb"
+  },
+  {
+    "song": "Unchain Utopia",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Victims of Contingency",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "The Second Stone",
+    "artists": "Epica",
+    "album": "The Quantum Enigma",
+    "genres": "dutch metal, gothic metal, gothic symphonic metal, opera metal, power metal, symphonic metal"
+  },
+  {
+    "song": "Mandala",
+    "artists": "Blastoyz",
+    "album": "Mandala",
+    "genres": "psychedelic trance"
+  },
+  {
+    "song": "Social Club",
+    "artists": "MureKian, Tommie Sunshine",
+    "album": "Social Club"
+  },
+  {
+    "song": "Epsidyan",
+    "artists": "JaguarTree",
+    "album": "Sound Archetypes"
+  },
+  {
+    "song": "Polyphonic Rust",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Kung-Fu Che?vre",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Musette Maximum",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Camel Dancefloor",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Nervous Waltz",
+    "artists": "Igorrr",
+    "album": "Spirituality and Distortion",
+    "genres": "avant-garde metal, breakcore, cybergrind, french metal, opera metal"
+  },
+  {
+    "song": "Veni Vidi Vici",
+    "artists": "Vini Vici",
+    "album": "Future Classics",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "It\u0027s Here",
+    "artists": "Major7, Vini Vici",
+    "album": "Future Classics",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "Alteza",
+    "artists": "Vini Vici",
+    "album": "Future Classics",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "Namaste",
+    "artists": "Vini Vici",
+    "album": "Future Classics",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "Awake the Snake",
+    "artists": "Astrix, Tristan",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Valley of Stevie",
+    "artists": "Ace Ventura, Astrix",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Deep Jungle Walk",
+    "artists": "Astrix",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Moonbox",
+    "artists": "Black Sun Empire, State of Mind",
+    "album": "Until The World Ends",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Ego",
+    "artists": "Black Sun Empire, State of Mind",
+    "album": "Until The World Ends",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Until the World Ends feat. PNC",
+    "artists": "Black Sun Empire, PNC, State of Mind",
+    "album": "Until The World Ends",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Splash",
+    "artists": "Yosi Horikawa",
+    "album": "Vapor",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Stars",
+    "artists": "Yosi Horikawa",
+    "album": "Vapor",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Kingdom Of Frogs",
+    "artists": "Yosi Horikawa",
+    "album": "Vapor",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Lawmaker",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Inside Is Out There",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "The Question Is To See It All",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "I\u0027m the Echo",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Narrow Road",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Imagine",
+    "artists": "Armin van Buuren",
+    "album": "Imagine",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "Orbion",
+    "artists": "Armin van Buuren",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "Feels So Good",
+    "artists": "Armin van Buuren, Nadia Ali",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "Bad",
+    "artists": "Black Sun Empire, State of Mind",
+    "album": "Until The World Ends",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Dead Ringer",
+    "artists": "State of Mind",
+    "album": "Back to the Jungle EP",
+    "genres": "drum and bass, neurofunk, nz dnb, nz electronic"
+  },
+  {
+    "song": "Surreality",
+    "artists": "Chris.SU, State of Mind",
+    "album": "Back to the Jungle EP",
+    "genres": "drum and bass, neurofunk, nz dnb, nz electronic"
+  },
+  {
+    "song": "Belarus",
+    "artists": "State of Mind",
+    "album": "Back to the Jungle EP",
+    "genres": "drum and bass, neurofunk, nz dnb, nz electronic"
+  },
+  {
+    "song": "Back to the Jungle",
+    "artists": "State of Mind",
+    "album": "Back to the Jungle EP",
+    "genres": "drum and bass, neurofunk, nz dnb, nz electronic"
+  },
+  {
+    "song": "Kismet",
+    "artists": "Ruby My Dear",
+    "album": "Strangers In Paradise",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Daydreaming",
+    "artists": "Netsky",
+    "album": "Your Way / Daydreamin",
+    "genres": "belgian edm, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Adhana",
+    "artists": "Astrix, Vini Vici",
+    "album": "Adhana",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "The Tribe",
+    "artists": "Vini Vici",
+    "album": "Future Classics",
+    "genres": "progressive uplifting trance"
+  },
+  {
+    "song": "Agate",
+    "artists": "Astrix, Ritmo",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Sapana",
+    "artists": "Astrix",
+    "album": "He.art",
+    "genres": "full on, nitzhonot, psychedelic trance"
+  },
+  {
+    "song": "Disenchanted - Warehouse Mix",
+    "artists": "Kerry Leva, Matt Lange",
+    "album": "Disenchanted Remixes",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Inorganism - Extended Mix",
+    "artists": "Matt Lange",
+    "album": "Inorganism",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Unsettled",
+    "artists": "Matt Lange",
+    "album": "Unsettled",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "X Up",
+    "artists": "Excision, Messinian, The Frim",
+    "album": "Codename X",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "G Shit",
+    "artists": "Excision, Sam King",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Throwin\u0027 Elbows",
+    "artists": "Excision, Space Laces",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Coming Home",
+    "artists": "Armin van Buuren",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "Take A Moment",
+    "artists": "Armin van Buuren, Winter Kills",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "Full Focus",
+    "artists": "Armin van Buuren",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "I Don\u0027t Own You",
+    "artists": "Armin van Buuren",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "Bring the Madness",
+    "artists": "Excision, Mayor Apeshit, Pegboard Nerds",
+    "album": "Codename X",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Shadowflame",
+    "artists": "Excision",
+    "album": "Codename X",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "X Rated",
+    "artists": "Excision, Messinian",
+    "album": "X Rated",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Out of Time",
+    "artists": "Dion Timmer, Excision, SPLITBREED",
+    "album": "Codename X",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Codename X",
+    "artists": "Excision",
+    "album": "Codename X",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Harambe",
+    "artists": "Datsik, Dion Timmer, Excision",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "The Paradox",
+    "artists": "Excision",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Live Wire",
+    "artists": "Excision",
+    "album": "Codename X",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Rave Thing",
+    "artists": "Excision",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Mirror",
+    "artists": "Dion Timmer, Excision",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Neck Brace",
+    "artists": "Excision, Messinian",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Final Boss",
+    "artists": "Dion Timmer, Excision",
+    "album": "Virus",
+    "genres": "brostep, canadian electronic"
+  },
+  {
+    "song": "Sing - Banton\u0027s Indian Chants Remix",
+    "artists": "Banton, Four Tet",
+    "album": "There Is Love in You (Expanded Edition)",
+    "genres": "electronica, folktronica, indietronica, intelligent dance music, trip hop"
+  },
+  {
+    "song": "Claustro",
+    "artists": "Burial",
+    "album": "Tunes 2011-2019",
+    "genres": "classic dubstep, electronica, future garage, hauntology, intelligent dance music, trip hop, uk bass, wonky"
+  },
+  {
+    "song": "Maki",
+    "artists": "Yosi Horikawa",
+    "album": "Vapor",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Bump",
+    "artists": "Yosi Horikawa",
+    "album": "Vapor",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Better Days - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Second Skin - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Split - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Origin - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Let Me Leave - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Kill the Ache - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Monsters - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "A Flag to Wave - Instrumental",
+    "artists": "Currents",
+    "album": "The Way It Ends (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Forever Marked - Instrumental",
+    "artists": "Currents",
+    "album": "I Let the Devil In",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "The Rope - Instrumental",
+    "artists": "Currents",
+    "album": "I Let the Devil In",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Feel the Same - Instrumental",
+    "artists": "Currents",
+    "album": "I Let the Devil In",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "My Disguise - Instrumental",
+    "artists": "Currents",
+    "album": "I Let the Devil In",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Into Despair - Instrumental",
+    "artists": "Currents",
+    "album": "I Let the Devil In",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Underground",
+    "artists": "DC Breaks",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "Moving On",
+    "artists": "DC Breaks",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "Solar System",
+    "artists": "Sub Focus",
+    "album": "Solar System / Siren",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Into Black",
+    "artists": "Joe Ford",
+    "album": "Lifecycle: Destruction"
+  },
+  {
+    "song": "Elixir",
+    "artists": "Prolix",
+    "album": "Lifecycle: Destruction"
+  },
+  {
+    "song": "Vendetta",
+    "artists": "DC Breaks",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "Step Up",
+    "artists": "DC Breaks",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "Organism",
+    "artists": "DC Breaks",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "Hypnotize",
+    "artists": "Limbo Slice",
+    "album": "Hypnotize",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Gambino VIP",
+    "artists": "DC Breaks",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "Infinity",
+    "artists": "DC Breaks, Prolix",
+    "album": "Different Breed",
+    "genres": "dancefloor dnb, drum and bass, liquid funk"
+  },
+  {
+    "song": "In Me",
+    "artists": "Kerry Leva, Matt Lange",
+    "album": "Space Between",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "The Limit",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Liberty Bell",
+    "artists": "DARKSIDE",
+    "album": "Spiral",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Shattered - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "I\u0027m Not Waiting - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Another Life - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "The Place I Feel Safest - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Withered - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Delusion - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Best Memory - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Apnea - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Night Terrors - Instrumental",
+    "artists": "Currents",
+    "album": "The Place I Feel Safest (Instrumental)",
+    "genres": "melodic metalcore, metalcore, progressive deathcore"
+  },
+  {
+    "song": "Fateful Hour",
+    "artists": "Black Sun Empire, State of Mind",
+    "album": "Lifecycle: Destruction"
+  },
+  {
+    "song": "Reflexion",
+    "artists": "Neonlight",
+    "album": "Lifecycle: Rebirth"
+  },
+  {
+    "song": "LEWK",
+    "artists": "Phace",
+    "album": "Lifecycle: Rebirth"
+  },
+  {
+    "song": "Something Bad",
+    "artists": "Black Sun Empire, Mefjus",
+    "album": "Lifecycle: Rebirth"
+  },
+  {
+    "song": "On Fire",
+    "artists": "Redpill",
+    "album": "Lifecycle: Rebirth"
+  },
+  {
+    "song": "Requiem",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Thunderblade",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Dying Light",
+    "artists": "Metrik, ShockOne",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Ex Machina",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Time To Let Go",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Gravity",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Closer",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Parallel",
+    "artists": "Grafix, Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Shadows",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Sopra Il Mondo",
+    "artists": "Francesca Siano, Sam Shure",
+    "album": "Malfunction",
+    "genres": "organic house"
+  },
+  {
+    "song": "Attenuator",
+    "artists": "Sam Shure",
+    "album": "Malfunction",
+    "genres": "organic house"
+  },
+  {
+    "song": "Permutation",
+    "artists": "Sam Shure",
+    "album": "Malfunction",
+    "genres": "organic house"
+  },
+  {
+    "song": "Malfunction",
+    "artists": "Sam Shure",
+    "album": "Malfunction",
+    "genres": "organic house"
+  },
+  {
+    "song": "Once Sealed In Blood",
+    "artists": "Amon Amarth",
+    "album": "Fate of Norns",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Mirage",
+    "artists": "Armin van Buuren",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "This Light Between Us - Extended Mix",
+    "artists": "Armin van Buuren, Christian Burns",
+    "album": "Mirage",
+    "genres": "dutch trance, edm, pop dance, progressive house, trance"
+  },
+  {
+    "song": "A Drifting Up",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "The Low Places",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Light Through The Veins",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Wire",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Insides",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Vessel",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Automata",
+    "artists": "Metrik",
+    "album": "Ex Machina",
+    "genres": "dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Timewarp",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Could This Be Real",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Vapourise",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Rock It",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Deep Space",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Follow the Light",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "World of Hurt",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "Move Higher (feat. Culture Shock)",
+    "artists": "Culture Shock, Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "The Pursuit Of Vikings",
+    "artists": "Amon Amarth",
+    "album": "Fate of Norns",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Skylined (Remastered)",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Claustrophobic Sting (Remastered)",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "3 Kilos (Remastered)",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Their Law (feat. Pop Will Eat Itself) [Remastered]",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Last Jungle",
+    "artists": "Sub Focus",
+    "album": "Sub Focus",
+    "genres": "dancefloor dnb, drum and bass, uk dance"
+  },
+  {
+    "song": "No Good (Start the Dance) [Remastered]",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Full Throttle (Remastered)",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Speedway (Theme From Fastlane) [Remastered]",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Sapien",
+    "artists": "Bonobo",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Counterpart",
+    "artists": "Bonobo",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Age of Phase",
+    "artists": "Bonobo",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Closer",
+    "artists": "Bonobo",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Elysian",
+    "artists": "Bonobo",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Otomo",
+    "artists": "Bonobo, O\u0027Flynn",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Rosewood",
+    "artists": "Bonobo",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Polyghost",
+    "artists": "Bonobo, Miguel Atwood-Ferguson",
+    "album": "Fragments",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Parallels",
+    "artists": "Black Sun Empire, IMANU",
+    "album": "Lifecycle: Creation"
+  },
+  {
+    "song": "Fate Of Norns",
+    "artists": "Amon Amarth",
+    "album": "Fate of Norns",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "The Beheading Of A King",
+    "artists": "Amon Amarth",
+    "album": "Fate of Norns",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Origins - Extended",
+    "artists": "Max Cooper",
+    "album": "Kindred",
+    "genres": "electronica, microhouse, minimal melodic techno, minimal techno, modular synth"
+  },
+  {
+    "song": "Contagion",
+    "artists": "Limbo Slice",
+    "album": "Contagion",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "The Binding",
+    "artists": "Limbo Slice",
+    "album": "The Binding",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Fight or Flight",
+    "artists": "Limbo Slice",
+    "album": "Fight or Flight",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Behavior Addicton",
+    "artists": "Limbo Slice",
+    "album": "Behavior Addicton",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Observation",
+    "artists": "Limbo Slice",
+    "album": "Observation",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Infection",
+    "artists": "Limbo Slice",
+    "album": "Contagion",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Social Control",
+    "artists": "Limbo Slice",
+    "album": "Social Control",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Self Destruction",
+    "artists": "Limbo Slice",
+    "album": "Self Destruction",
+    "genres": "dark clubbing"
+  },
+  {
+    "song": "Cleopatra",
+    "artists": "Eekkoo",
+    "album": "Cleopatra"
+  },
+  {
+    "song": "Narayan",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Firestarter",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Diesel Power",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Funky Shit",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Climbatize",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Mindfields",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Serial Thrilla",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Smack My Bitch Up",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "First Kill",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "The Way of Vikings",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Raise Your Horns",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "One Against All",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Back on Northern Shores",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "One Thousand Burning Arrows",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "On a Sea of Blood",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Wanderer",
+    "artists": "Amon Amarth",
+    "album": "Jomsviking",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Sitra",
+    "artists": "DARKSIDE",
+    "album": "Psychic",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Metatron",
+    "artists": "DARKSIDE",
+    "album": "Psychic",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "The Only Shrine I\u0027ve Seen",
+    "artists": "DARKSIDE",
+    "album": "Psychic",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Heart",
+    "artists": "DARKSIDE",
+    "album": "Psychic",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Golden Arrow",
+    "artists": "DARKSIDE",
+    "album": "Psychic",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Paper Trails",
+    "artists": "DARKSIDE",
+    "album": "Psychic",
+    "genres": "downtempo, electronica"
+  },
+  {
+    "song": "Breathe",
+    "artists": "The Prodigy",
+    "album": "The Fat of the Land",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Vara SPP",
+    "artists": "Sex Pula Pistol",
+    "album": "Vara SPP",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Eleuthera",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Crossing",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Red Tide",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Lightraker",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Lens",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Kanta",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Inkeri",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Riverline",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Foxglove",
+    "artists": "Tor",
+    "album": "Oasis Sky",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Uken",
+    "artists": "Ruby My Dear",
+    "album": "Remains of Shapes to Come",
+    "genres": "breakcore, drill and bass, mashcore"
+  },
+  {
+    "song": "Voodoo People (Remastered)",
+    "artists": "The Prodigy",
+    "album": "More Music for the Jilted Generation",
+    "genres": "big beat, breakbeat, dance rock, hardcore techno, rave"
+  },
+  {
+    "song": "Could This Be - Original",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Stigma - Original",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Leakage - Original",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Thursday - Original",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Lattice",
+    "artists": "Tipper",
+    "album": "Lattice",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Ia Pula Si Du-Te",
+    "artists": "Sex Pula Pistol",
+    "album": "Atentionare",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Paper Rain",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Moon II",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "The Thickness",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Heikki",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Drum Therapy",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Aperture",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Glass \u0026 Stone",
+    "artists": "Tor",
+    "album": "Drum Therapy",
+    "genres": "erotic product, substep"
+  },
+  {
+    "song": "Lust",
+    "artists": "Rift",
+    "album": "Lust",
+    "genres": "uk dnb"
+  },
+  {
+    "song": "Phobetor",
+    "artists": "Rift",
+    "album": "Phobetor",
+    "genres": "uk dnb"
+  },
+  {
+    "song": "Bambro Koyo Ganda",
+    "artists": "Bonobo, Innov Gnawa",
+    "album": "Bambro Koyo Ganda",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Crossing",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Mine",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "In the Wind",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Nubia",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Fluid",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Timbres",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Vietnam",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Swashers",
+    "artists": "Yosi Horikawa",
+    "album": "Spaces",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "In the Distance",
+    "artists": "Yosi Horikawa",
+    "album": "Wandering",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Letter",
+    "artists": "Yosi Horikawa",
+    "album": "Wandering",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Bubbles",
+    "artists": "Yosi Horikawa",
+    "album": "Wandering",
+    "genres": "abstract beats, japanese experimental, japanese idm"
+  },
+  {
+    "song": "Sui la Mine Pe Covor",
+    "artists": "Sex Pula Pistol",
+    "album": "Genetico-Fantastic",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Plec Din Cavou",
+    "artists": "Sex Pula Pistol",
+    "album": "Genetico-Fantastic",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Lumea Aparatelor",
+    "artists": "Sex Pula Pistol",
+    "album": "Genetico-Fantastic",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Nostalgie",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Printu din cavou",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Tengura Tropicala",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Inima",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Vara asta sunt fantastic",
+    "artists": "Sex Pula Pistol",
+    "album": "Vara asta sunt fantastic",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Recovery",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Luminous Beings",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Echo Dissolve",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Linked",
+    "artists": "Bonobo",
+    "album": "Linked",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Feel First Life",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "C O S M",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Everything Connected",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Split The Atom",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Containment",
+    "artists": "Noisia",
+    "album": "Imperial EP",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Tryhard",
+    "artists": "Noisia",
+    "album": "Imperial EP",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Veil of Time 3D (Binaural Version - Headphones Only)",
+    "artists": "Max Cooper",
+    "album": "3D Reworks 001",
+    "genres": "electronica, microhouse, minimal melodic techno, minimal techno, modular synth"
+  },
+  {
+    "song": "Penrose Tiling 3D (Binaural Version - Headphones Only)",
+    "artists": "Max Cooper",
+    "album": "3D Reworks 001",
+    "genres": "electronica, microhouse, minimal melodic techno, minimal techno, modular synth"
+  },
+  {
+    "song": "Afterglow",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Valhalla",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Dusk to Dawn",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Natural Cause",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Merlion",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "The Way",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Minor Cause",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Eve II",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Outlaw",
+    "artists": "Emancipator",
+    "album": "Dusk to Dawn",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Resynthesis 3D (Binaural Version - Headphones Only)",
+    "artists": "Max Cooper",
+    "album": "3D Reworks 001",
+    "genres": "electronica, microhouse, minimal melodic techno, minimal techno, modular synth"
+  },
+  {
+    "song": "Red Heat",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "MIscarea rapida a ochiilor",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "B.D.S.M,",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Mi-am modificat picioarele",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Sosoiu",
+    "artists": "Sex Pula Pistol",
+    "album": "Sosoiu",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Sa vii cu ma-ta la scoala",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Turbo-Martin",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Triplu Guerlain",
+    "artists": "Sex Pula Pistol",
+    "album": "LEGENDE",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Alpha Centauri",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Machine Gun",
+    "artists": "Noisia",
+    "album": "Split the Atom (Special Edition)",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Dustup",
+    "artists": "Noisia, The Upbeats",
+    "album": "Imperial EP",
+    "genres": "breakbeat, brostep, deep dnb, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Tock\u0027s Taunt - Loke\u0027s Treachery Part II",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Mariscos",
+    "artists": "Tipper",
+    "album": "Insolito",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Uptrick",
+    "artists": "Tipper",
+    "album": "Insolito",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Diapaused",
+    "artists": "Tipper",
+    "album": "Insolito",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "SinBanshee",
+    "artists": "Tipper",
+    "album": "Insolito",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Air Biscuits",
+    "artists": "Tipper",
+    "album": "Insolito",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Kasra",
+    "artists": "Sam Shure",
+    "album": "Kasra",
+    "genres": "organic house"
+  },
+  {
+    "song": "Dystopia",
+    "artists": "Sam Shure",
+    "album": "Kasra",
+    "genres": "organic house"
+  },
+  {
+    "song": "Senorita",
+    "artists": "Sam Shure, Temple Haze",
+    "album": "Kasra",
+    "genres": "organic house"
+  },
+  {
+    "song": "Anthem",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Soon It Will Be Cold Enough to Build Fires",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Good Knight",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "First Snow",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Periscope Up",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Smoke Signals",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Eve",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "With Rainy Eyes",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "When I Go",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Wolf Drawn",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Beat Down VIP",
+    "artists": "DC Breaks, Prolix",
+    "album": "The Message VIP / Beat Down VIP",
+    "genres": "darkstep, neurofunk"
+  },
+  {
+    "song": "The Message VIP",
+    "artists": "Black Sun Empire, Prolix",
+    "album": "The Message VIP / Beat Down VIP",
+    "genres": "darkstep, neurofunk"
+  },
+  {
+    "song": "Neon Pattern Drum",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Emerald Rush",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Singularity",
+    "artists": "Jon Hopkins",
+    "album": "Singularity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Lionheart",
+    "artists": "Emancipator",
+    "album": "Soon It Will Be Cold Enough",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Dynasty",
+    "artists": "KOAN Sound",
+    "album": "Dynasty EP",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Ever Decreasing Circles",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Hourglass Infringement",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Neuron Huskie",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Herriot Method",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Cinder Cone",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Dead Soon",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Brocken Spectre",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Class 5 Roaming Vapour",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Big Question Small Head",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Tit for Tat",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Rio Branco",
+    "artists": "Nicola Cruz",
+    "album": "Cantos de Vision",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Cuckoo",
+    "artists": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Fixed_",
+    "artists": "Karma Fields",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Skewed",
+    "artists": "Karma Fields",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Faint Echoes",
+    "artists": "Karma Fields, Monarchy",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "A Bright But Distant Future",
+    "artists": "Karma Fields",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Build The Cities",
+    "artists": "Karma Fields, Kerli",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Greatness",
+    "artists": "Karma Fields, Talib Kweli",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Skyline",
+    "artists": "Karma Fields",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "For Me",
+    "artists": "Karma Fields",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Edge of the World",
+    "artists": "Karma Fields",
+    "album": "New Age | Dark Age (Deluxe Version)",
+    "genres": "canadian electronic, complextro"
+  },
+  {
+    "song": "Danza de Vision",
+    "artists": "Nicola Cruz",
+    "album": "Cantos de Vision",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Tzantza",
+    "artists": "Nicola Cruz",
+    "album": "Cantos de Vision",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Form By Firelight",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Sun Harmonics",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Shimmer",
+    "artists": "Matt Lange",
+    "album": "Shimmer",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Let There Be Light",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "Valentine",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "Phantom Pt. II",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "Phantom",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "Face to Face",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Crescendolls",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Aerodynamic",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Breathe This Air",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "We Disappear",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Immunity",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Something About Us",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Vines",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Nevergreen",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Black Lake",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Siren",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Ares",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Kamakura",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Digital Love",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Voyager",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Waters of Nazareth",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "One Minute To Midnight",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "Genesis",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "Stress",
+    "artists": "Justice",
+    "album": "Justice",
+    "genres": "alternative dance, dance-punk, electronica, filter house, indietronica, new rave"
+  },
+  {
+    "song": "One More Time",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Harder, Better, Faster, Stronger",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "genres": "electro, filter house, rock"
+  },
+  {
+    "song": "Hill Sighed",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Greenland",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Old Devil",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Jet Stream",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Safe in the Steep Cliffs",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "All Through the Night",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Bury Them Bones",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Blackest Balloon",
+    "artists": "Matt Lange",
+    "album": "Space Between",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Collider",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "Open Eye Signal",
+    "artists": "Jon Hopkins",
+    "album": "Immunity",
+    "genres": "compositional ambient, electronica, intelligent dance music"
+  },
+  {
+    "song": "La Cosecha",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Sanación",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Colibria",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Cumbia del Olvido",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Prender el Alma",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Puente Roto",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "La Mirada",
+    "artists": "Nicola Cruz",
+    "album": "Prender el Alma",
+    "genres": "ecuadorian indie, latintronica, organic electronic"
+  },
+  {
+    "song": "Permutate",
+    "artists": "Haywyre, Zeros",
+    "album": "Two Fold Pt. 1",
+    "genres": "canadian electronic, complextro, future bass"
+  },
+  {
+    "song": "Rattlesnakes",
+    "artists": "Emancipator",
+    "album": "Safe in the Steep Cliffs",
+    "genres": "downtempo, livetronica, trip hop"
+  },
+  {
+    "song": "Heavy Heart",
+    "artists": "Muffler",
+    "album": "Composer",
+    "genres": "drum and bass, finnish edm, liquid funk"
+  },
+  {
+    "song": "Animals",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "All In Forms",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "1009",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "We Could Forever",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "El Toro",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Kiara",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Forty Winks",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Rotundus Maximus",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "No Dice",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Screw Loose",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Kong",
+    "artists": "Bonobo",
+    "album": "Black Sands",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Adrift For Days",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Over The Coals",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Just As The Sun Went Down",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "The Glass House",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "California Rolls",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Tear Strips Off",
+    "artists": "Tipper",
+    "album": "Surrounded",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Raver",
+    "artists": "Burial",
+    "album": "Untrue",
+    "genres": "classic dubstep, electronica, future garage, hauntology, intelligent dance music, trip hop, uk bass, wonky"
+  },
+  {
+    "song": "Blurred",
+    "artists": "Misanthrop",
+    "album": "Blurred",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Heavy Load",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Malfunction",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Tank Man",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Rosebud",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Fatality",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Trashriot",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Darknet",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Infinite Hysteria",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Drone",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Antimachine",
+    "artists": "Misanthrop",
+    "album": "Misanthrop",
+    "genres": "darkstep, german dnb, neurofunk"
+  },
+  {
+    "song": "Ten Tigers",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Know You",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Don\u0027t Wait",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Emkay",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Jets",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Sapphire",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Cirrus",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Antenna",
+    "artists": "Bonobo",
+    "album": "The North Borders",
+    "genres": "downtempo, electronica, indietronica, instrumental hip hop, jazztronica, nu jazz, trip hop"
+  },
+  {
+    "song": "Supercell",
+    "artists": "Varien, Veela",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Snowlight",
+    "artists": "Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Firefly (Intermission)",
+    "artists": "Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Ghost Spores",
+    "artists": "Laura Brehm, Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Valentine",
+    "artists": "Muffler",
+    "album": "Unique Music",
+    "genres": "drum and bass, finnish edm, liquid funk"
+  },
+  {
+    "song": "November",
+    "artists": "Muffler",
+    "album": "Composer",
+    "genres": "drum and bass, finnish edm, liquid funk"
+  },
+  {
+    "song": "Composer",
+    "artists": "Muffler",
+    "album": "Composer",
+    "genres": "drum and bass, finnish edm, liquid funk"
+  },
+  {
+    "song": "Lifedance",
+    "artists": "Sorrow",
+    "album": "Search of the Miraculous",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Abrakalimba",
+    "artists": "Matt Lange",
+    "album": "Space Between",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Parallel Strains",
+    "artists": "Matt Lange",
+    "album": "Space Between",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Permatemp",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Viscous",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Sahra",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Fallow",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Tethers",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "C\u0027est La Vie",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Vection",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Oi Oi Spit",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Sayonara",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Shelled",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Q.V.C.A.M.X.",
+    "artists": "Matt Lange",
+    "album": "Patchwork",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Elementally, My Dear Watson",
+    "artists": "Matt Lange",
+    "album": "Patchwork",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Tempi Disarming",
+    "artists": "Matt Lange",
+    "album": "Patchwork",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Hertz, Don\u0027t It",
+    "artists": "Matt Lange",
+    "album": "Patchwork",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Basimilus 3",
+    "artists": "Matt Lange",
+    "album": "Patchwork",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Virgo Serena",
+    "artists": "Damjan Mravunac",
+    "album": "The Talos Principle (Video Game Soundtrack)",
+    "genres": "video game music"
+  },
+  {
+    "song": "Exit Chapel Perilous",
+    "artists": "Tipper",
+    "album": "Jettison Mind Hatch",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "My Rock",
+    "artists": "Culprate",
+    "album": "5 Star",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Transmissions from Lemuria",
+    "artists": "Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Kamisama",
+    "artists": "Miyoki, Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "The Ancient \u0026 Arcane",
+    "artists": "Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Hypnotique",
+    "artists": "Charlotte Haining, Varien",
+    "album": "The Ancient \u0026 Arcane",
+    "genres": "chillstep, complextro, downtempo, filthstep, melodic dubstep"
+  },
+  {
+    "song": "Atreyu",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Louna",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Not Much to Say",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Mangata",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Guz",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Encanto",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Aubade",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Mirage",
+    "artists": "Sam Shure",
+    "album": "Laconia",
+    "genres": "organic house"
+  },
+  {
+    "song": "Run from the Crushing Tide",
+    "artists": "Ensiferum",
+    "album": "Thalassic",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Andromeda",
+    "artists": "Ensiferum",
+    "album": "Thalassic",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Under Siege",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Dansu de Impreunare",
+    "artists": "Sex Pula Pistol",
+    "album": "Genetico-Fantastic",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "In Iad E Ca-N Ibiza",
+    "artists": "Sex Pula Pistol",
+    "album": "Genetico-Fantastic",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Turcu Sfant",
+    "artists": "Sex Pula Pistol",
+    "album": "Capodopere",
+    "genres": "neo-manele, romanian indie"
+  },
+  {
+    "song": "Rage Valley",
+    "artists": "Knife Party",
+    "album": "Rage Valley",
+    "genres": "australian dance, brostep, complextro, edm, electro house, moombahton, pop dance"
+  },
+  {
+    "song": "Bonfire",
+    "artists": "Knife Party",
+    "album": "Rage Valley",
+    "genres": "australian dance, brostep, complextro, edm, electro house, moombahton, pop dance"
+  },
+  {
+    "song": "Centipede",
+    "artists": "Knife Party",
+    "album": "Rage Valley",
+    "genres": "australian dance, brostep, complextro, edm, electro house, moombahton, pop dance"
+  },
+  {
+    "song": "For Victory or Death",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Aerials",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Wrath of the Norsemen",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Slaves of Fear",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Come Alive",
+    "artists": "Pendulum",
+    "album": "Elemental",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Louder Than Words",
+    "artists": "Hybrid Minds, Pendulum",
+    "album": "Elemental",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Nothing for Free",
+    "artists": "Pendulum",
+    "album": "Elemental",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Driver",
+    "artists": "Pendulum",
+    "album": "Elemental",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "The Bedraggling",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Homage Sliders",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Grabbers Holders",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Rip Cord",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Portal Spillage",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "A Beast Am I",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Cloud Parasite",
+    "artists": "Audio, Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "The Veil - Original Mix",
+    "artists": "Black Sun Empire, Noisia",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "No Advance",
+    "artists": "Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Scarif",
+    "artists": "Black Sun Empire, Pythius",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Broken",
+    "artists": "Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Stranger",
+    "artists": "Black Sun Empire, State of Mind, Thomas Oliver",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Crash Dive",
+    "artists": "Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Abduction",
+    "artists": "Black Sun Empire, Neonlight",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Foundation",
+    "artists": "Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Immersion",
+    "artists": "Belle Doron, Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "Swarm",
+    "artists": "Black Sun Empire",
+    "album": "The Wrong Room",
+    "genres": "darkstep, drill and bass, drum and bass, dutch dnb, neurofunk"
+  },
+  {
+    "song": "As Loke Falls",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Destroyer of the Universe",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Mountain Streams",
+    "artists": "Muffler",
+    "album": "Stone Cold",
+    "genres": "drum and bass, finnish edm, liquid funk"
+  },
+  {
+    "song": "Nowhere",
+    "artists": "I See MONSTAS",
+    "album": "Evolution EP"
+  },
+  {
+    "song": "Lying to Myself",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "The Fever",
+    "artists": "Matt Lange, Quivver",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Removes Me",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Ripples",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "My Love Aside",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "You\u0027ll Remember Me",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Dejected",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Warriors of the North",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Hyperwarp",
+    "artists": "Matt Lange",
+    "album": "Ephemera",
+    "genres": "progressive house, progressive trance house"
+  },
+  {
+    "song": "Reboot",
+    "artists": "Addergebroed, Culprate",
+    "album": "The Great Expedition",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Mcfunk",
+    "artists": "Culprate",
+    "album": "The Great Expedition",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Table Flipping",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Father of the Wolf",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "The New Dawn",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "War of the Gods",
+    "artists": "Amon Amarth",
+    "album": "Surtur Rising",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Deceiver of the Gods",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Shape Shifter",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "We Shall Destroy",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Reverse Dross Maneuver",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Life Raft for a Death Trip",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Apex of the Vortex",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Two",
+    "artists": "Culprate",
+    "album": "Nightmares in Reality",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Dreamsters",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Victory Song",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "One More Magic Potion",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Blood Is The Price Of Glory",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Ahti",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Wanderer",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Deathbringer From The Sky",
+    "artists": "Ensiferum",
+    "album": "Victory Songs",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Mudra",
+    "artists": "JaguarTree",
+    "album": "Music of the Spheres"
+  },
+  {
+    "song": "Flowerchild",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Embrace",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Intruder",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Shadowed Doubt",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Supernova",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Moodswing",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Elixir",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Maelys",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Gallows Hill",
+    "artists": "Sorrow",
+    "album": "Dreamstone",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Baby",
+    "artists": "Four Tet",
+    "album": "Sixteen Oceans",
+    "genres": "electronica, folktronica, indietronica, intelligent dance music, trip hop"
+  },
+  {
+    "song": "Pinnacles",
+    "artists": "Four Tet",
+    "album": "Pink",
+    "genres": "electronica, folktronica, indietronica, intelligent dance music, trip hop"
+  },
+  {
+    "song": "Pyramid",
+    "artists": "Four Tet",
+    "album": "Pink",
+    "genres": "electronica, folktronica, indietronica, intelligent dance music, trip hop"
+  },
+  {
+    "song": "Locked",
+    "artists": "Four Tet",
+    "album": "Pink",
+    "genres": "electronica, folktronica, indietronica, intelligent dance music, trip hop"
+  },
+  {
+    "song": "Ocoras",
+    "artists": "Four Tet",
+    "album": "Pink",
+    "genres": "electronica, folktronica, indietronica, intelligent dance music, trip hop"
+  },
+  {
+    "song": "La Fuente de la Vida",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Alchemical Structures",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Forgotten Worlds",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Oracle Seer",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Doors Of Perception",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Jaguar Eyes Temple",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Relics Of Consciousness",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Codex",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Into the Roots",
+    "artists": "JaguarTree",
+    "album": "Relics Of Consciousness"
+  },
+  {
+    "song": "Totemfire",
+    "artists": "Ekcle",
+    "album": "Yoja",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "Moonstone",
+    "artists": "Ekcle",
+    "album": "Yoja",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "Clandestine",
+    "artists": "Ekcle",
+    "album": "Yoja",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "Crafted in Ice",
+    "artists": "Ekcle",
+    "album": "Yoja",
+    "genres": "bristol electronic"
+  },
+  {
+    "song": "Qualm",
+    "artists": "Sorrow",
+    "album": "Qualm / Iscariot",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Iscariot",
+    "artists": "Sorrow",
+    "album": "Qualm / Iscariot",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Mourner VIP",
+    "artists": "Sorrow",
+    "album": "Mourner VIP / Voynich",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Kalypso",
+    "artists": "Sorrow",
+    "album": "Hieroglyphics EP",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Lover\u0027s Charm",
+    "artists": "Sorrow",
+    "album": "Hieroglyphics EP",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Cypher",
+    "artists": "Sorrow",
+    "album": "Hieroglyphics EP",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Chronicle",
+    "artists": "Sorrow",
+    "album": "Hieroglyphics EP",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Frumoasa",
+    "artists": "Sorrow",
+    "album": "The Twelve",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Want U Back",
+    "artists": "Sorrow",
+    "album": "The Twelve",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Sheol",
+    "artists": "Sorrow",
+    "album": "The Twelve",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Reverie",
+    "artists": "Sorrow",
+    "album": "The Twelve",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "The Twelve",
+    "artists": "Sorrow",
+    "album": "The Twelve",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Chronos",
+    "artists": "KOAN Sound",
+    "album": "Chronos",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Aeon",
+    "artists": "KOAN Sound",
+    "album": "Chronos",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Red Shift",
+    "artists": "KOAN Sound",
+    "album": "Chronos",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Traverse",
+    "artists": "KOAN Sound",
+    "album": "Chronos",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Draguta",
+    "artists": "Sorrow",
+    "album": "Draguta",
+    "genres": "bristol electronic, chillstep, substep, wave"
+  },
+  {
+    "song": "Hel",
+    "artists": "Amon Amarth",
+    "album": "Deceiver of the Gods",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Widars Hallen",
+    "artists": "Equilibrium",
+    "album": "Turis Fratyr (+Demo 2003)",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Gulch",
+    "artists": "Tipper",
+    "album": "Forward Escape",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Trenched",
+    "artists": "Tipper",
+    "album": "Fathoms",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Deep Sixing",
+    "artists": "Tipper",
+    "album": "Fathoms",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Peripherals",
+    "artists": "Tipper",
+    "album": "Fathoms",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Ambergris",
+    "artists": "Tipper",
+    "album": "Fathoms",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Sorus",
+    "artists": "Tipper",
+    "album": "Fathoms",
+    "genres": "downtempo, glitch hop, nu skool breaks, psybass"
+  },
+  {
+    "song": "Diablo",
+    "artists": "Culprate",
+    "album": "Nightmares in Reality",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Axel Grinder - Original Mix",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Mana",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Dämmerung",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Ruf in den Wind",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Des Sängers Fluch",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Die Weide und der Fluß",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Heimwärts",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Snüffel",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Verrat",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Unbesiegt",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Blut im Auge",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Wurzelbert",
+    "artists": "Equilibrium",
+    "album": "Sagas",
+    "genres": "folk metal, german metal, german pagan metal, melodic death metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Live For The Kill",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "The Hero",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "No Fear For The Setting Sun",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Tattered Banners And Bloody Flags",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Where Is Your God?",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Guardians Of Asgaard",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Free Will Sacrifice",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Twilight Of The Thunder God",
+    "artists": "Amon Amarth",
+    "album": "Twilight Of The Thunder God",
+    "genres": "groove metal, melodic death metal, metal, power metal, speed metal, swedish death metal, swedish melodeath, swedish metal, tolkien metal, viking metal"
+  },
+  {
+    "song": "Battery",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Lai Lai Hei",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Into Battle",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Slayer Of Light",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Lost In Despair",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Tale Of Revenge",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Sword Chant",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Iron",
+    "artists": "Ensiferum",
+    "album": "Iron (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Battle Song",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Eternal Wait",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Treacherous Gods",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Windrider",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Little Dreamer (Väinämöinen Part II)",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Old Man (Väinämöinen)",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Guardians Of Fate",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Token Of Time",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "Hero In A Dream",
+    "artists": "Ensiferum",
+    "album": "Ensiferum (2009 Edition)",
+    "genres": "finnish melodeath, finnish metal, folk metal, melodic death metal, metal, nordic folk metal, power metal, symphonic metal, viking metal"
+  },
+  {
+    "song": "View from Above",
+    "artists": "KOAN Sound",
+    "album": "Forgotten Myths",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Forgotten Myths",
+    "artists": "KOAN Sound",
+    "album": "Forgotten Myths",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Sentient",
+    "artists": "KOAN Sound",
+    "album": "Forgotten Myths",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "Strike",
+    "artists": "KOAN Sound",
+    "album": "Forgotten Myths",
+    "genres": "complextro, filthstep, glitch, glitch hop"
+  },
+  {
+    "song": "At the Gates",
+    "artists": "Culprate",
+    "album": "Others",
+    "genres": "filthstep"
+  },
+  {
+    "song": "No Words",
+    "artists": "Culprate, Madison Malone",
+    "album": "Others",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Beast",
+    "artists": "Culprate",
+    "album": "Others",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Subsonics",
+    "artists": "Culprate",
+    "album": "Others",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Relucent",
+    "artists": "Culprate, Zes",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Whispers, Pt. 2",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Yin",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Within",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Without",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Void",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Acid Rain",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "The Memoirs of Gregory Otterman",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Florn",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "Whispers, Pt. 1",
+    "artists": "Culprate",
+    "album": "Deliverance",
+    "genres": "filthstep"
+  },
+  {
+    "song": "The Tempest",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Granite",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "9,000 Miles",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Mutiny",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Midnight Runner",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Visions",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Propane Nightmares",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Different",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Showdown",
+    "artists": "Pendulum",
+    "album": "In Silico",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Blood Sugar - Original Mix",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Streamline",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "The Terminal",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Hold Your Colour",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Out Here",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Tarantula - Original Mix",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Girl In The Fire",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Sounds Of Life (Ft. Jasmine Yee)",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Fasten Your Seatbelt (Ft. The Freestylers)",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Plasticworld (Ft. Fats \u0026 TC)",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Slam",
+    "artists": "Pendulum",
+    "album": "Hold Your Colour",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Encoder",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Witchcraft",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "The Vulture",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "The Island, Pt. II (Dusk)",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "The Island, Pt. I (Dawn)",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Under the Waves",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Crush",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Watercolour - Full Version; Single",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  },
+  {
+    "song": "Salt in the Wounds",
+    "artists": "Pendulum",
+    "album": "Immersion",
+    "genres": "australian dance, dancefloor dnb, drum and bass"
+  }
+]
